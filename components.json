@@ -31,6 +31,15 @@
             "title": "Vanilla Git"
         },
         {
+            "name": "low-latency",
+            "title": "Low Latency",
+            "features": {
+                "env": {
+                    "PROTON_DXVK_LOWLATENCY": 1
+                }
+            }
+        },
+        {
             "name": "gplasync",
             "title": "Gplasync",
             "features": {
