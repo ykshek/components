@@ -3,6 +3,6 @@
         "name": "DXVK.Native-GPLALL-GCC-SSE4.2-O3-LTO-GENERIC.2.6.8-2",
         "title": "2.6.8-2",
         "version": "2.6.8-2",
-        "uri": "https://github.com/Digger1955/dxvk-gplall/releases/download/DXVK-GPLALL-2.6.8-2/DXVK-GPLALL-GCC-WinMacLinux-SSE4.2-O3-LTO-GENERIC.2.6.8-2.zip"
+        "uri": "https://github.com/ykshek/dxvk-repo/raw/refs/heads/main/DXVK-GPLALL-GCC-WinMacLinux-SSE4.2-O3-LTO-GENERIC.2.6.8-2.zip"
     }
 ]

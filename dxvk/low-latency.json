@@ -3,6 +3,6 @@
         "name": "dxvk-2.7.1-3-low-latency",
         "title": "2.7.1-3",
         "version": "2.7.1-3",
-        "uri": "https://github.com/netborg-afps/dxvk-low-latency/releases/download/low-latency-framepacing-2.7.1-3/dxvk-2.7.1-3-low-latency.tar.gz"
+        "uri": "https://github.com/ykshek/dxvk-repo/raw/refs/heads/main/dxvk-2.7.1-3-low-latency.tar.gz"
     }
 ]
