@@ -1,5 +1,11 @@
 [
     {
+        "name": "dxvk-3.1.1-low-latency",
+        "title": "3.1.1",
+        "version": "3.1.1",
+        "uri": "https://github.com/ykshek/dxvk-repo/raw/refs/heads/main/dxvk-3.1.1-low-latency.tar.gz"
+    },
+    {
         "name": "dxvk-3.0.2-low-latency",
         "title": "3.0.2",
         "version": "3.0.2",
